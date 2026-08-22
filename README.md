@@ -25,5 +25,5 @@ Install and run commands will be documented here once the Node.js application is
 
 ## License
 
-MIT
+This project is licensed under the [MIT License](LICENSE).
 
