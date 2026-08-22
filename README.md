@@ -1,12 +1,11 @@
 # My Capstone Project
 
-## Description
-This is my capstone project repository. It will be developed using AI-assisted development practices.
+Capstone software project built with Node.js. This repository is in early setup: conventions and version control are in place, and the application itself is not yet implemented.
 
-## Tech Stack
+## Tech stack
+
 - Node.js
-- Git
-- Cursor
 
-## Development
-This project uses Cursor as an AI coding assistant and Git for version control.
+## License
+
+MIT
