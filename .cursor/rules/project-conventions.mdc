@@ -1,0 +1,14 @@
+# Project Conventions
+
+## Stack
+- Define the project stack here.
+
+## Code Style
+- Keep code clean and readable.
+- Use clear and descriptive names.
+- Follow the conventions of the chosen framework.
+
+## Git
+- Use Conventional Commits.
+- Format: type: description
+- Examples: feat:, fix:, docs:, chore:, refactor:
